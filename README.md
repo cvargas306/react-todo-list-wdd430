@@ -1,8 +1,8 @@
-# React To-Do List 
+# React ToDo List 
 
-A simple and interactive **To-Do List** built with **React + Vite**.
+A simple and interactive To-Do List built with React + Vite.
 
-This project was created as part of the **Web Full-Stack Development** course to practice React fundamentals such as components, props, state, and hooks.
+This project was created as part of the Web Full-Stack Development course to practice React fundamentals such as components, props, state, and hooks.
 
 ---
 
@@ -11,7 +11,7 @@ This project was created as part of the **Web Full-Stack Development** course to
 - Add new tasks  
 - Mark tasks as completed  
 - Delete tasks  
-- Persistent data using `localStorage`  
+- Persistent data using localStorage  
 - Built with React + Vite for fast development
 
 ---
@@ -20,7 +20,7 @@ This project was created as part of the **Web Full-Stack Development** course to
 
 - React  
 - Vite  
-- JavaScript (ES6+)  
+- JavaScript  
 - CSS3  
 - Git & GitHub  
 
@@ -30,5 +30,5 @@ This project was created as part of the **Web Full-Stack Development** course to
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/react-todo-list.git
-   cd react-todo-list
+   git clone https://github.com/your-username/react-todo-list-wdd430.git
+   cd react-todo-list-wdd430
